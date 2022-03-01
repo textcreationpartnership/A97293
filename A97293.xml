@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sober reply to a serious enquiry. Or, An answer to a reformed Quaker in vindication of himself, Mr. G. Keith and others, for their conformity to the Church of England, against what I have written on that subject. By Trepidantium Malleus.</title>
+            <author>Trepidantium Malleus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97293</idno>
+            <idno type="STC">Wing Y88</idno>
+            <idno type="STC">ESTC R230924</idno>
+            <idno type="EEBO-CITATION">99896079</idno>
+            <idno type="PROQUEST">99896079</idno>
+            <idno type="VID">153778</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97293)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153778)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2378:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sober reply to a serious enquiry. Or, An answer to a reformed Quaker in vindication of himself, Mr. G. Keith and others, for their conformity to the Church of England, against what I have written on that subject. By Trepidantium Malleus.</title>
+                  <author>Trepidantium Malleus.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and sold by A. Baldwin, and John Marshall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Trepidantium Malleus = Samuel Young.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716 --  Early works to 1800.</term>
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153778:1"/>
+            <pb facs="tcp:153778:1" rendition="simple:additions"/>
+            <p>A SOBER REPLY TO A Serious Enquiry. OR, An ANSWER to a <hi>Reformed Q<g ref="char:V">Ʋ</g>AKER,</hi> in Vindication of Himſelf, Mr. <hi>G. Keith</hi> and others, for their Conformity to the Church of <hi>England,</hi> againſt what I have written on that Subject.</p>
+            <p>By <hi>Trepidantium Malleus.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, and ſold by <hi>A. Baldwin,</hi> and <hi>John Marſhal.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:153778:2"/>
+            <head>
+               <hi>A SOBER REPLY to a</hi> SERIOUS ENQUIRY.</head>
+            <p>YESTERDAY, when I remov'd my Habitation from <hi>London</hi> to <hi>Mortloch,</hi> the <hi>Serious Enquiry</hi> came to my hand. I grew weary of a City of Contention, and never intended to write more about their Controverſies, but apply my ſelf to a large delectable Habitation nigh the King's Park by <hi>Richmond,</hi> in ſome of the beſt Air in the World, hoping to cure as many diſtemper'd Bodies, as I had diſtem<g ref="char:EOLhyphen"/>per'd Minds in that now forſaken City. <hi>Horace</hi> highly commends a Country Life:</p>
+            <q xml:lang="lat">
+               <l>Beatus ille qui procul negotiis.</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>t priſca gens mortalium—</l>
+            </q>
+            <p>Sir <hi>Kenelm Digby,</hi> after he had in lively colours deſcrib'd the Excellency of a Country, and in apt ones the Vanity of a Court Life it ſelf, as well as a City one, ſays at laſt,</p>
+            <q>
+               <l>And if Contentment be a Stranger then,</l>
+               <l>I'll ne'er ſeek it, but in Heaven, again.</l>
+            </q>
+            <p>Theſe with many others, make a Country Life an Emblem of the Golden Age.</p>
+            <p>
+               <pb n="3" facs="tcp:153778:2"/>
+But my hopes of a Life free from Contro<g ref="char:EOLhyphen"/>verſy, were nipt in the bud by this Oppugner of me: For Silence in me might look like Victory in him, and a betraying of my Righ<g ref="char:EOLhyphen"/>teous Cauſe.</p>
+            <p>Had Mr. <hi>Leſly,</hi> whom I greatly honour, or Mr. <hi>Keith,</hi> whom moſt men now as great<g ref="char:EOLhyphen"/>ly deſpiſe, no better Advocate for their now common Cauſe, or no fitter Cenſurer of me, than one who never vindicates them or himſelf from one of my Arguments againſt Conformi<g ref="char:EOLhyphen"/>ty, but is not aſhamed to ſay, <hi>p.</hi> 3. <hi>It might be endleſs to anſwer ſome of your grand Ob<g ref="char:EOLhyphen"/>jections?</hi> Ay, Sir, ſay you ſo! Is this all? And inſtead of anſwering one of my Argu<g ref="char:EOLhyphen"/>ments, you offer about 60 Queries and Par<g ref="char:EOLhyphen"/>ticulars, moſt of them ridiculous and imper<g ref="char:EOLhyphen"/>tinent. If I am, as you ſay you have heard, and found in my Books, <hi>a man of that ability—that I can anſwer Queries and Doubts of Con<g ref="char:EOLhyphen"/>ſcience,</hi> I have ſomething elſe to do than to anſwer all your Queries, but will ſingle out ſuch as are material. You ſay, <hi>Great were my pains to convince you when Quakers—That you now bear teſtimony to</hi> G. Keith<hi>'s found Doc<g ref="char:EOLhyphen"/>trive</hi> (A Quakeriſh Phraſe and Cant.) It is a Query among ſome of you, Whether Mr, <hi>Leſ<g ref="char:EOLhyphen"/>ly</hi> hath fully anſwer'd my Arguments againſt Conformity in our printed Epiſtles? Let Mr. <hi>Keith</hi> eſſay it, if he thinks he can: So My firſt <hi>Friendly Epiſtle</hi> to him againſt Epiſ<g ref="char:EOLhyphen"/>copacy. Why muſt I be plagu'd with old
+<pb n="4" facs="tcp:153778:3"/>ſtale Objections, and my Replies taken no notice of: An intolerable Practice among ſome ſhort-ſighted men, or men of no depth.</p>
+            <p>Now to your chief reaſons why you turn not Independents, offer'd by way of Query: But I muſt contract.</p>
+            <p n="1">1. They paganize, and make Antichriſtian all the Churches of Chriſt in the World, ex<g ref="char:EOLhyphen"/>cept themſelves.</p>
+            <p>This Charge is ſo foul and falſe, as I have proved in my <hi>Apology</hi> for them, that I hope in you it came from Ignorance, I fear from Ma<g ref="char:EOLhyphen"/>lice: perhaps from both. <hi>Cotton</hi> in his <hi>Keys, Jer. Burroughs</hi> in his <hi>Irenicum, Du Maulin</hi> in his <hi>Plea for Congregational Churches,</hi> and all I have read of, abhor'd ſuch black Notions. Do they make Anabaptiſts Pagans, who, are often ſaid to have too great Affinity with them? Call they not Presbyterians their Brethren? Read the <hi>London <g ref="char:V">Ʋ</g>nion. Du Maulin,</hi> that Great Good Man, in his <hi>Moral Reflections,</hi> ſingles out Bp <hi>Hall</hi> often as one of the greateſt Saints on Earth. I confeſs ſome of them are as mad upon ſome of their Notions, as Mr. <hi>Leſly,</hi> Mr. <hi>Keith,</hi> and your ſelf, on the Divsne Right of Epiſcopacy. I am ſorry a man of worth and ſenſe, tho not of temper, was—ſo weak in his Plea, for Congregational Churches, to lay down four Arguments to prove the Houſe of Stone was not the Church of God: As, Chriſt died for the Church, but he died not for the Houſe of Stone. <hi>Ergo, &amp;c.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:153778:3"/>
+What is more common than a Metonimy of the Continent for the thing contained? as, I drink off ſuch a Cup or Glaſs, eat up ſuch a Diſh, for the Drinks and Meats in them.</p>
+            <p n="2">2. The ſecond is falſe: for the Independents own the Church-Memberſhip of Infants, and ſo their Baptiſm; inſeparable Truths.</p>
+            <p n="3">3. About living by the Goſpel, <hi>&amp;c.</hi> What Independant denied it, or the Lawfulneſs of Tythes? What <hi>Penry</hi> did in the days of Q. <hi>Elizabeth,</hi> or ſome Browniſt, they are not to be anſwerable for. In <hi>Oliver</hi>'s days this was no Controverſy.</p>
+            <p n="4">4. You ſay, <hi>They ſet up Preachers that have no knowledg of the Tongues.</hi> What they only? Where they make one, ſome Biſhops have made two, and Good Bp <hi>Crofts</hi> juſtifies it, <hi>Naked Truth.</hi> But theſe things I have conſider'd in my Apology.</p>
+            <p n="5">5. To the fifth I ſay, That not only they, but the Anabaptiſts, now own and practiſe Ordination by laying on of Hands. Read ſome of their Confeſſions.</p>
+            <p n="6">6. What Independents gather Churches from <hi>York</hi> to <hi>London,</hi> I know not. No doubt they have gotten ſome Knaves, as you ſome good Men. But you have forty to one.</p>
+            <p n="8">8. You ſay, they expect <hi>New Modifica<g ref="char:EOLhyphen"/>tions.</hi> Have not yours often changed Doc<g ref="char:EOLhyphen"/>trine and Diſcipline? Organs, Bowings, <hi>&amp;c.</hi> See the abominable Worſhip at <hi>Paul</hi>'s. Your Changes are for the worſe, Popiſh ones.
+<pb n="6" facs="tcp:153778:4"/>What Changes they make are for the better, Proteſtant ones.</p>
+            <p n="10">10. To the tenth Query Mr. <hi>Hales</hi> thinks the Power of the Keys nothing but <hi>declarative,</hi> and ſo no more belongs to Miniſters than pri<g ref="char:EOLhyphen"/>vate Chriſtians. Popiſh Abſolutions, and and yours have been ſo ill managed, that moſt of yours are ſick of them now. Why in a time of Death only are men abſolved?</p>
+            <p n="12">12. If they think our Reformers worſhipped God in a wrong way, Do not you think ſo of ſome Reformed Churches, <hi>France, Holland, Geneva, Scotland</hi> of old, and now? Do not Tome of you unchurch them, and Mr. <hi>Leſly</hi> unchriſtian them. See his Black Book of <hi>Epiſ<g ref="char:EOLhyphen"/>copacy.</hi> Did ever any Independent write in ſuch bloody Characters? And yet this man is your Oracle, and you all plow with his Heifer. They who were our Reformers were not our Apoſtles. Mr. <hi>L.</hi> would be, I fear, if occaſion were, as very an Incendiary as <hi>Hugh Peters,</hi> that madd Independent. Keep to ſuch as he, and go on, as one of yours did on his Execu<g ref="char:EOLhyphen"/>tion.</p>
+            <q>
+               <l>Here is the laſt and beſt Edition</l>
+               <l>Of <hi>Hugh,</hi> the Author of Sedition.</l>
+               <l>He that ſhall ſay, will ſurely miſs,</l>
+               <l>That <hi>Hugh</hi> now Independent is.</l>
+            </q>
+            <p>To call Jacobite Quakers <hi>Honeſt Loyal</hi> ones, as Mr. <hi>L.</hi> doth, is to be abhor'd by all true <hi>Engliſh</hi>-men. No more of this: <hi>Pudet dicere
+<pb n="7" facs="tcp:153778:4"/>&amp; piget tacere.</hi> Rebellion is now call'd Loy<g ref="char:EOLhyphen"/>alty.</p>
+            <p>To your Reaſons why you turn'd not Presby<g ref="char:EOLhyphen"/>terians, by way of Query.</p>
+            <p>Whether Chriſt did not bid his Diſciples to ſay, Our Father—Whether they did not ſay, Our Father—Whether it be not evil to expunge Our Father—are made three Que<g ref="char:EOLhyphen"/>ſtions; tho I put them, and ſo might he, into one.</p>
+            <p n="1">1. The Aſſembly of Divines recommended the uſe of it, and ſome do it to this day, Mr. <hi>Shower,</hi> and others.</p>
+            <p n="2">2. Yet ſecondly, I muſt confeſs not only I think there is no command here, but that it is not convenient to uſe it. See my Anſwer to <hi>W. C.</hi> a Churchman his <hi>Trepidantium malleus intrepidanter malleatus,</hi> in favour of G.<hi>White<g ref="char:EOLhyphen"/>head</hi> and the Quakers, againſt me, Mr. <hi>Keath,</hi> and Mr. <hi>Leſly</hi> too. And I add, That tho our Bible, I think, is not only well, but laudably tranſlated; yet on much and long conſidera<g ref="char:EOLhyphen"/>tion and enquiry, I do aver, That <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is not truly nor tolerably tranſlated. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is no more daily than weekly, or monthly. And I boldly aſſert, That <hi>Panem noſtrum quotidianum da nobis hodie,</hi> is a foul Translation, tho uſed by Papiſts and Proteſtants. If it be ask'd, how muſt it be read? I anſwer, it is no eaſy Queſtion. <hi>Su<g ref="char:EOLhyphen"/>pereſſential, ſuperſubſtantial</hi> Bread are not pro<g ref="char:EOLhyphen"/>per,
+<pb n="8" facs="tcp:153778:5"/>not being underſtood by the Vulgar; tho Mr. <hi>Pool</hi> mentions them. He was a famous Nonconformiſt, by the way, of whoſe <hi>Synopſis D. Barlow</hi> ſaid, <hi>Opus eſſet, non unius viri, ſed totius ſaeculi, ſi tu non ſuſcepſſes.</hi> I think, <hi>Tre<g ref="char:EOLhyphen"/>mellius</hi> gave the faireſt ſtroak: <hi>Panen noſtrum neceſſarium da nobis hodie,</hi> Give us this day our <hi>neceſſary</hi> Bread. I humbly offer this to the conſideration of ſuch Diſſenters as uſe this Form. As for the Clergy, their Ears are bor'd at the Prelates Doors, that they are ſworn to ſerve them for ever: They dare not alter it; but muſt keep to their old <hi>Mumpſimus,</hi> not<g ref="char:EOLhyphen"/>withſtanding my new <hi>Sumpſimus,</hi> for fear of being excommunicated, and ſent as a Token to the Devil for this offence. For my part, one reaſon among others why I uſe it not, is the great Superſtition of ſome men; ſo for this reaſon I ſometimes put on my Hat in hearing, and will juſtify this, if occaſion be.</p>
+            <p>You ask us, Sir, whether <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> be not a different word from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>? Yes, Sir, as <hi>Enſiis</hi> and <hi>Gladius,</hi> but not a different thing. And are indeed Biſhops call'd Presbyters be<g ref="char:EOLhyphen"/>cauſe once ſo? Would it be proper to call my <hi>Lord Mayor</hi> Mr. <hi>Alderman,</hi> becauſe once ſo? or a <hi>King Prince of</hi> Wales, becauſe ſo before. Biſhop is a name of Office, Presbyter of Duty, ſay you. Learnedly diſtinguiſh'd, ſay I.</p>
+            <p>The naming of <hi>Timothy</hi> Biſhop of <hi>Epheſus,</hi> and <hi>Titus</hi> of <hi>Crete,</hi> and <hi>Jerom</hi>'s Authority, are all of a piece, as I have proved long ſince.
+<pb n="9" facs="tcp:153778:5"/>Whether K. <hi>James</hi> or Bp <hi>B.</hi> ſaid firſt, <hi>No Bi<g ref="char:EOLhyphen"/>ſhop, no King,</hi> is no matter, being confuted in <hi>Scotland. Aeirus</hi> his damnable Doctrine a<g ref="char:EOLhyphen"/>gainſt the Trinity, <hi>&amp;c.</hi> made him a Heretick, not denying Epiſcopacy, elſe <hi>Jerom</hi> had been one, the Reformed Churches-abroad had been heretical. What madneſs is this!</p>
+            <p>The Canons of the Apoſtles, and <hi>Ignatius</hi> his Epiſtles, are juſtly queſtioned, whether legitimate or ſpurious, by Proteſtants of all ſorts: Yet if <hi>Ignatius</hi> his Epiſtles were genuin, a Biſhop was but a Biſhop of one Church, one Altar—In after Ages the difference was not of Order, but of Degree. Shew a new Or<g ref="char:EOLhyphen"/>dination or Conſecration.</p>
+            <p>Did St <hi>James</hi> make a Liturgy or Common Prayer-Book, or One for him?</p>
+            <p>The <hi>Lord's Prayer</hi> and <hi>Creed,</hi> p. 3. and 4. you prove every word by Scripture at large. Do we deny it? Was ever ſuch mad work made till now! The Query about <hi>ſudden Death, All Women labouring with Child,</hi> &amp;c. is foreign to our buſineſs. Are you and <hi>G. Keith</hi> on immediate Inſpiration ſtill, that you ſay, That the Petition in the Form of Marriage, that they might live as <hi>Iſaac</hi> and <hi>Rebecca</hi> (not as <hi>Abraham</hi> and <hi>Sarah,</hi> for he had a <hi>Hagar</hi> too; not as <hi>Jacob</hi> and <hi>Rachael,</hi> for he had a <hi>Leah</hi> too) <hi>was from Inſpiration from the Holy Ghoſt, not human Invention.</hi> Was Criſtmas, Man, known of old—There is Praying by the Spirit as to Gifts as well as Grace.</p>
+            <p>
+               <pb n="10" facs="tcp:153778:6"/>
+You commend him that called the Common Prayer-Book, <hi>Optimmm Breviarium,</hi> the worſt name I think he could ever give it. What is it, the <hi>beſt Maſs-Book?</hi> Agreed. One being ask'd how they could ſay of K.<hi>C.</hi> II. our <hi>moſt Religions King?</hi> He ſaid, It is the moſt Re<g ref="char:EOLhyphen"/>ligious King we have, we have not a better. So ſay I, it is the beſt Breviary we have, we have not a better.</p>
+            <p>The laſt Propoſitions in the third and laſt-part are common to all, they can have no place here.</p>
+            <p>Now, Reader, if thou haſt read my <hi>Snake caught,</hi> thou canſt not think this a Reply. I am ready to prove,</p>
+            <p n="1">1. That it is more ſcandalous for Miniſters to read other mens Prayers to God, than read other mens Sermons to the People.</p>
+            <p n="2">2. That the Church of the <hi>Jews,</hi> tho laden with Ceremonies (every one of Divine Appoint<g ref="char:EOLhyphen"/>ment) had no Liturgies in this its Infancy; and therefore worſe is it now.</p>
+            <p n="3">3. That a Dioceſan Biſhop is not a Creature of God's making, and can no more take upon him the ſole Power of <hi>Ordination,</hi> than of <hi>Baptizing</hi> or giving the <hi>Lord's Supper.</hi> To ſay nothing of their lazy vain Lives.</p>
+            <p n="4">4. That to ſwear Canonical Obedience to ſuch, to read Writs of Excommunication a<g ref="char:EOLhyphen"/>gainſt the beſt of men for Toys or Trifles, or ſwear Church-wardens, if occaſion be, to Articles none do keep, or can keep, <hi>&amp;c.</hi> is
+<pb n="11" facs="tcp:153778:6"/>double-died Iniquity, big-bellied Wicked<g ref="char:EOLhyphen"/>neſs.</p>
+            <p n="5">5. That for theſe and other reaſons Separa<g ref="char:EOLhyphen"/>tion from the Church of <hi>England</hi> is no Sin, but a Duty. I wiſh your Mr. <hi>L.</hi> and our Mr. <hi>A.</hi> might meet together; or Mr. <hi>K.</hi> and my ſelf.</p>
+         </div>
+         <div type="letter">
+            <head>To Mr. <hi>KEITH.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Air at <hi>Mortlock</hi> being good for Di<g ref="char:EOLhyphen"/>ſtempers in the Head as well as Body (and therefore Lodgings are for a time here taken up by many <hi>Londoners</hi>) I offer you the beſt Room in my Houſe till you are cured. Is it fair to imploy or help or countenance ſuch a Bigot of yours as <hi>C. I.</hi> only that it might be ſaid, <hi>I was anſwer'd,</hi> tho it matters not how? You are Sir, if ever man was, what the Poet ſays,</p>
+            <q xml:lang="lat">
+               <p>Et tantum conſtans in levitate ſua</p>
+               <bibl>Ovid.</bibl>
+            </q>
+            <p>Some of <hi>C. I.</hi> his Queries are as little to the Controverſy, as theirs who query of you,</p>
+            <p n="1">1. Whether you did not ſay, You could better bear Death than Poverty, and ſo con<g ref="char:EOLhyphen"/>formed, becauſe your <hi>Turners-Hall</hi> Hearers and Mathematical Scholars dropt away, and you ſaw you could not be the Head of a new Party.</p>
+            <p n="2">
+               <pb n="12" facs="tcp:153778:7"/>
+2. Whether before your Ordination you did not diſcourſe according as your Company was about Conformity or Non-comformity. Or if I ſhould now ask.</p>
+            <p n="3">3. Whether the Apoſtles wore a black Gown, <hi>&amp;c.</hi> What would you ſay of any of us? at leaſt that we were Impertinents:</p>
+            <q xml:lang="lat">
+               <p>Aut illud quod dicere nolo.</p>
+               <bibl>Juven.</bibl>
+            </q>
+            <p>Be not angry, Sir, if I tell you, to anſwer ſuch as he is but the work of one Afternoon, without any Book by me but the cenſured Pa<g ref="char:EOLhyphen"/>per. Many years have I been from my Study, and to be plain in my preſent Circumſtances care for none. Farewel Mr. <hi>Changeable,</hi> and yet Mr. <hi>Infallible,</hi> I intend to anſwer every thing againſt me, but not againſt other men. I have been at great coſt and Pains, let others be ſo, if occaſion be.</p>
+            <closer>
+               <salute>Farewel <hi>London,</hi> Farewel Controverſies.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153778:7"/>
+            <pb facs="tcp:153778:8"/>
+            <pb facs="tcp:153778:8"/>
+            <pb facs="tcp:153778:9"/>
+            <pb facs="tcp:153778:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
